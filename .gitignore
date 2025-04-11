@@ -1,0 +1,47 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+**/env_*/
+**/__pycache__/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Visual Studio Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Windows specific
+desktop.ini
+
+# IDE specific files
+.idea/
+.vs/
+
+# Large installation files
+**/install/**/*.exe
+01.code_analysis/install/
+
+# Any other large binary files
+*.exe
+*.dll
+*.so
+*.zip
+*.7z
+*.tar.gz
+*.iso
