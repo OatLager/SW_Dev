@@ -1,9 +1,0 @@
-{
-    "class" : "FUNCTION_CLASS",
-    "name": "FUNCTION_NAME",
-    "summary": "FUNCTION_DESCRIPTION",
-    "flow": ["1. FLOW_DESCRIPTIONS",
-             "  1.1. FLOW_DESCRIPTIONS",
-             "    1.1.1. FLOW_DESCRIPTIONS",
-             "2. ..."]
-}
