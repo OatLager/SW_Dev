@@ -33,6 +33,13 @@ desktop.ini
 .idea/
 .vs/
 
+# Secrets and API Keys
+**/OpenAI_API_Key.txt
+01.code_analysis/01.Code_gen_Excel/release/v09/OpenAI_API_Key.txt
+*.key
+*.pem
+*.env
+
 # Large installation files
 **/install/**/*.exe
 01.code_analysis/install/
